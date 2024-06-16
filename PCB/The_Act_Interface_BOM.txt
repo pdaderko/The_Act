@@ -1,0 +1,4 @@
+U1: Teensy 3.2 (Teensy 4.0 should be compatible, may require slight changes to firmware)
+SW1-SW12: B3F-6022 (compatible: https://www.amazon.com/dp/B07X8T9D2Q/)
+J1: 70543-0004
+J2-J7: 1217861-1
